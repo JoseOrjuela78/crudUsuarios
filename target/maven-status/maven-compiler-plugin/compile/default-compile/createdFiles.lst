@@ -1,0 +1,5 @@
+Modelo\UsuarioDAO.class
+Vista\Main.class
+com\mycompany\usuarioscrud\UsuariosCrud.class
+Controlador\Usuario.class
+Modelo\ConexionDB.class
